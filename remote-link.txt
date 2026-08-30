@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://bonus-bell-zshops-prominent.trycloudflare.com/vnc.html
+URL       : https://definition-lie-training-almost.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-30 18:19:26
+Created   : 2026-08-30 22:17:51
 =======================================================
